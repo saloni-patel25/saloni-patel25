@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saloni-patel25" alt="saloni-patel25" /></a> </p>
 
-- 🔭 I’m currently working on **Air Quality Prediction**
+- 🔭 I’m currently working on **Portfolio & Frontend projects**
 
-- 🌱 I’m currently learning **Machine Learning,CSS**
+- 🌱 I’m currently learning **JavaScript & MySQL**
 
 - 💬 Ask me about **Python,Project Management**
 
